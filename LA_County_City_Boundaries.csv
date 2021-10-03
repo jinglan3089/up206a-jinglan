@@ -1,0 +1,319 @@
+﻿OBJECTID,CITY,CITY_ID,CITY_TYPE,CITY_NAME,CITY_LABEL,COLOR_CODE,ABBR,CITY_NO,DESCRIPTN,URL,PHONE,OF_AREA_SM,FEAT_TYPE,COMMENT,COLOR_EGIS,POPULATION,ShapeSTArea,ShapeSTLength
+47054,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,97729827.1113281,87319.8615854923
+47055,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,22116.2822265625,979.78264452201
+47056,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,53293.3818359375,2226.79412376194
+47057,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,117938.926757812,4796.08839766816
+47058,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,333098.407226562,2883.43643297751
+47059,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Pier,,"Gray - RGB 178,178,178",,24184.3974609375,2580.47042041545
+47060,,,City,Santa Monica,Santa Monica,2,,75,SMON,www.smgov.net,3104588411,8.147,Pier,,"Pink - RGB 255,190,232",,119503.512695312,2613.68672120851
+47061,,,City,Malibu,Malibu,5,,51,MBU,www.ci.malibu.ca.us,3104562489,19.613,Pier,,"Orange - RGB 230,190,112",,22674.470703125,1416.76788275604
+47062,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4289302.75878906,14163.9858004604
+47063,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,276269.297851562,2357.39894789067
+47064,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,112510.193359375,1629.85550818976
+47065,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,822139.831054688,4034.07382405551
+47066,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,599947.057617188,3837.49003915076
+47067,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,65293.24609375,1053.29826705155
+47068,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2804404.95898438,11140.3271158532
+47069,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2003189258.33496,427954.523034758
+47070,,,City,Avalon,Avalon,2,,5,AVLN,www.cityofavalon.com,3105100220,2.92,Land,,"Orange - RGB 230,190,112",,80459284.1503906,58118.2685369228
+47071,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,60773.171875,1142.76781170618
+47072,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4743.927734375,333.14168230701
+47073,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1429.1943359375,149.844736546728
+47074,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,343838.841796875,3302.40900042932
+47075,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1834.6435546875,184.278261708757
+47076,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1578.521484375,156.810469581324
+47077,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,5496.8720703125,275.900165878294
+47078,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,6323.14453125,309.173467609639
+47079,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3196.3427734375,221.062401210581
+47080,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,66973.6884765625,1100.33281063377
+47081,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2030.9736328125,207.581437166268
+47082,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2885.1982421875,207.128137861918
+47083,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4253.1826171875,280.340288111353
+47084,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,7006.234375,310.910686857843
+47085,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1329.8740234375,162.697204443186
+47086,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,616.6298828125,108.75360589836
+47087,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3497.0498046875,235.530733282738
+47088,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4636.419921875,295.910474861501
+47089,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,6943.591796875,458.001450481516
+47090,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1263.4716796875,160.162724556514
+47091,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1968.259765625,192.076946626859
+47092,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3480.099609375,273.371399615377
+47093,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,998.38671875,140.320381477351
+47094,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,293.92578125,81.879499542342
+47095,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1696.310546875,159.443707341647
+47096,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,6963.4873046875,329.915469389517
+47097,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,691.15625,107.046687318796
+47098,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,768.9091796875,116.698462941199
+47099,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,872.5419921875,123.126952137621
+47100,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4379.1181640625,273.249138225421
+47101,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4664.6904296875,257.382816466596
+47102,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,310.646484375,85.1223901128188
+47103,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,11109.5361328125,543.832197017489
+47104,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1350.5791015625,141.488065757678
+47105,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,5455.4013671875,361.95638526203
+47106,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,952.8525390625,130.199375037675
+47107,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2641.8095703125,203.157923168583
+47108,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,10036.982421875,434.373382278054
+47109,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2708.3359375,217.687107381835
+47110,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1203.587890625,154.742957665399
+47111,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,862.0029296875,138.987239035643
+47112,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1095.423828125,153.109397627135
+47113,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,6383.0966796875,359.717406110402
+47114,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,531.228515625,106.232459214293
+47115,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1531.5947265625,153.20747493739
+47116,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,8514.681640625,468.64687414969
+47117,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1391.9580078125,146.366391900727
+47118,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,22780.892578125,727.768456085685
+47119,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2892.1943359375,219.110800128051
+47120,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,17132.2275390625,583.90087840251
+47121,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,10717.7431640625,472.443461329368
+47122,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,408.658203125,98.3710674865449
+47123,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1610.1611328125,165.033222667148
+47124,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2063.9375,219.930253646481
+47125,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,572.7744140625,114.153579752188
+47126,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,690.681640625,136.062787041631
+47127,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3294.6083984375,257.281577689884
+47128,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2401.0205078125,210.703756357126
+47129,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1744.2841796875,187.268705373731
+47130,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,294.228515625,90.8594306608184
+47131,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,881.4267578125,136.650549785974
+47132,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1125.6220703125,138.270127449185
+47133,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,7217.5537109375,314.171540764879
+47134,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3883.3232421875,237.984806377879
+47135,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2896.076171875,202.22289519548
+47136,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,12656.62890625,507.811213863099
+47137,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,345.58984375,86.8639660358714
+47138,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1025.3564453125,134.886559005834
+47139,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2538.3515625,219.419074787171
+47140,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,42385.0341796875,827.31462869667
+47141,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2509.6689453125,204.013184494832
+47142,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,13462.8408203125,438.383831160741
+47143,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,22908.8701171875,660.639827465088
+47144,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1098.607421875,146.372361892601
+47145,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,7663.388671875,411.130612072011
+47146,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,797.3955078125,120.526301655551
+47147,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,397.658203125,100.973260703036
+47148,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1572294173.65137,332102.166924666
+47149,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,76398.447265625,1334.59116470834
+47150,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,56128.1201171875,2611.41366497125
+47151,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,50.309,Breakwater,,"Purple - RGB 185,185,250",,668332.34765625,26811.8924126757
+47152,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,50.309,Breakwater,,"Purple - RGB 185,185,250",,97107.5126953125,3207.25451671752
+47153,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,51518.630859375,1119.72222167899
+47154,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,50.309,Breakwater,,"Purple - RGB 185,185,250",,82535.6689453125,3572.11558702201
+47155,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,50.309,Breakwater,,"Purple - RGB 185,185,250",,157589.564453125,5499.9634612013
+47156,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,50.309,Breakwater,,"Purple - RGB 185,185,250",,24325.1484375,1226.41420229697
+47157,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Breakwater,,"Pink - RGB 255,190,232",,42113.1279296875,1468.01116635937
+47158,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Breakwater,,"Pink - RGB 255,190,232",,7463.015625,491.169560721817
+47162,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,843640.662109375,3991.2296523289
+47163,,,City,Norwalk,Norwalk,2,,57,NRWK,www.ci.norwalk.ca.us,5629295700,9.354,Land,,"Pink - RGB 255,190,232",,272023719.393555,91611.4632722305
+47164,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,589493.408203125,3403.94150025395
+47165,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3249483.46289062,38824.0090061737
+47166,,,City,Diamond Bar,Diamond Bar,3,,23,DMDBR,www.ci.diamond-bar.ca.us,9098397000,14.959,Land,,"Purple - RGB 185,185,250",,414927981.104492,110699.785263367
+47167,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,98608791.1699219,97213.7034037176
+47168,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,181861785.949219,163661.995007279
+47169,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,6192767.95800781,11670.5601761757
+47170,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,53318234.4443359,51661.1292838986
+47171,,,City,Pasadena,Pasadena,2,,61,PAS,www.ci.pasadena.ca.us,6267444000,23.14,Land,,"Pink - RGB 255,190,232",,644180405.719727,283063.98652459
+47172,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,14220453.8603516,19229.6106775467
+47173,,,City,Irwindale,Irwindale,4,,38,IRW,www.ci.irwindale.ca.us,6264302200,9.475,Land,,"Green - RGB 203,255,112",,268565971.083008,131448.528993663
+47174,,,City,La Verne,La Verne,6,,43,LAV,www.ci.la-verne.ca.us,9095968726,8.483,Land,,"Brown - RGB 215,194,158",,237570337.011719,115461.330842619
+47175,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Land,,"Gray - RGB 178,178,178",,13098650885.4199,1697557.58079491
+47176,,,City,Claremont,Claremont,3,,17,CLAR,www.ci.claremont.ca.us,9093995460,13.426,Land,,"Purple - RGB 185,185,250",,375529322.682617,150129.03998838
+47177,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3034302058.26855,369125.11784869
+47178,,,City,San Dimas,San Dimas,5,,69,SNDMS,www.cityofsandimas.com,9093946200,15.358,Land,,"Orange - RGB 230,190,112",,429644581.708008,170600.970945024
+47179,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,61843712971.5957,2558231.45834967
+47180,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2214673.25976562,8412.78349915138
+47181,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,9080549.66503906,23392.2668852069
+47182,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,26347256.859375,57065.4738030439
+47183,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,11882025.8037109,16581.0324042609
+47184,,,City,Hawthorne,Hawthorne,3,,32,HAW,www.cityofhawthorne.com,3103492900,6.07,Land,,"Purple - RGB 185,185,250",,169576109.75,110160.439491804
+47185,,,City,Lynwood,Lynwood,4,,50,LYN,www.lynwood.ca.us,3106030220,4.848,Land,,"Green - RGB 203,255,112",,135012048.113281,72152.5440780004
+47186,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1392532.97167969,10849.7917661191
+47187,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,136127.798828125,1630.93444534492
+47188,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,503506.219726562,3482.83352370339
+47189,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,30562130.3007812,33135.8064463524
+47190,,,City,South Gate,South Gate,2,,79,SGT,www.cityofsouthgate.org,3235639500,7.321,Land,,"Pink - RGB 255,190,232",,204962022.486328,102568.802023574
+47191,,,City,Cudahy,Cudahy,6,,21,CDHY,www.cityofcudahy.com,3237735143,1.211,Land,,"Brown - RGB 215,194,158",,34261136.2236328,33735.1701712102
+47192,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3321076.54492188,8005.96757847655
+47193,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1025978.99023438,6904.189168155
+47194,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,207436753.791016,87358.7087513063
+47195,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,25171174.5615234,29530.0729153292
+47196,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,15063445.9902344,23175.1125917781
+47197,,,City,Bell Gardens,Bell Gardens,4,,9,BGDNS,www.bellgardens.org,5628067700,2.397,Land,,"Green - RGB 203,255,112",,68727192.5908203,38914.4668497108
+47198,,,City,Inglewood,Inglewood,2,,37,ING,www.cityofinglewood.org,3104125111,9.093,Land,,"Pink - RGB 255,190,232",,253644360.53418,90388.3259335337
+47199,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,24773372.7617188,71324.3409682374
+47200,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,118148921.620117,68317.9148658927
+47201,,,City,Huntington Park,Huntington Park,3,,35,HPK,www.huntingtonpark.org,3235826161,2.998,Land,,"Purple - RGB 185,185,250",,84037433.9628906,66356.9861654224
+47202,,,City,Maywood,Maywood,4,,53,MYWD,www.cityofmaywood.com,3235625700,1.182,Land,,"Green - RGB 203,255,112",,32839478.8017578,30091.9090062285
+47203,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,310178.407226562,5466.81146074484
+47204,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1132406.82324219,4846.96046466998
+47205,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,10425411.1318359,22635.7477434125
+47206,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,6351977.2421875,13325.8639291804
+47207,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,41385395.6103516,62265.9377773471
+47209,,,City,Malibu,Malibu,5,,51,MBU,www.ci.malibu.ca.us,3104562489,19.613,Land,,"Orange - RGB 230,190,112",,551991706.22168,251667.097751335
+47211,,,City,Signal Hill,Signal Hill,3,,77,SGHL,www.cityofsignalhill.org,5629897300,2.136,Land,,"Pink - RGB 255,190,232",,61291506.7529297,56461.5458725287
+47212,,,City,Lakewood,Lakewood,3,,44,LKWD,www.lakewoodcity.org,5628669771,9.544,Land,,"Pink - RGB 255,190,232",,263532836.181641,124225.372866642
+47213,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,75306513.1845703,41410.6223646345
+47214,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,50.309,Land,,"Purple - RGB 185,185,250",,1441666603.49512,563635.974202078
+47215,,,City,Carson,Carson,4,,15,CAR,ci.carson.ca.us,3108307600,19.24,Land,,"Green - RGB 203,255,112",,528001006.567383,127691.742116339
+47216,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,5494354.70410156,11568.2722893904
+47217,,,City,Paramount,Paramount,5,,60,PAR,www.paramountcity.com,5622202000,4.664,Land,,"Orange - RGB 230,190,112",,134393837.146484,67953.789706345
+47218,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Water,,"Gray - RGB 178,178,178",,141624253.991211,234192.536362342
+47219,,,City,Rolling Hills,Rolling Hills,2,,66,RLHS,www.rolling-hills.org,3103771521,2.985,Land,,"Pink - RGB 255,190,232",,83379649.5654297,48172.7924362127
+47220,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,14592674.171875,17831.5652479218
+47221,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4631419.49609375,9338.40594405074
+47222,,,City,Rancho Palos Verdes,Rancho Palos Verdes,3,,64,ROPV,www.palosverdes.com/rpv,3103770360,13.435,Land,,"Purple - RGB 185,185,250",,376539939.647461,204052.52411282
+47223,,,City,Palos Verdes Estates,Palos Verdes Estates,2,,59,PVE,www.pvestates.org,3103780383,4.767,Land,,"Pink - RGB 255,190,232",,133266232.165039,70837.6813382807
+47224,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Land,,"Pink - RGB 255,190,232",,173200104.669922,103762.797527978
+47225,,,City,Compton,Compton,3,,19,CPT,www.comptoncity.org,3106055500,10.111,Land,,"Pink - RGB 255,190,232",,281543616.835938,178065.054109008
+47226,,,City,Vernon,Vernon,2,,83,VER,www.cityofvernon.org,3235838811,5.096,Land,,"Pink - RGB 255,190,232",,143612377.487305,84908.2722179194
+47227,,,City,Santa Monica,Santa Monica,2,,75,SMON,www.smgov.net,3104588411,8.147,Land,,"Pink - RGB 255,190,232",,237171414.298828,65872.1579073761
+47228,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,307188.71875,4328.86530064724
+47229,,,City,South El Monte,South El Monte,3,,78,SEL,www.ci.south-el-monte.ca.us,6265796540,2.808,Land,,"Purple - RGB 185,185,250",,79450918.1992188,62002.3070915301
+47230,,,City,West Covina,West Covina,2,,85,WCOV,www.westcovina.org,6269398400,16.15,Land,,"Pink - RGB 255,190,232",,447949281.142578,204525.343599495
+47231,,,City,El Monte,El Monte,2,,26,ELM,www.ci.el-monte.ca.us,6265802001,9.57,Land,,"Pink - RGB 255,190,232",,268024588.547852,106796.234397805
+47232,,,City,La Puente,La Puente,3,,42,LAPNT,www.lapuente.org,6268551500,3.449,Land,,"Purple - RGB 185,185,250",,96859901.1191406,86933.3875470969
+47233,,,City,Pomona,Pomona,2,,63,POM,www.ci.pomona.ca.us,9096202311,22.975,Land,,"Pink - RGB 255,190,232",,641044267.845703,163136.905183337
+47234,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1004751966.83496,283088.988573824
+47235,,,City,Montebello,Montebello,2,,55,MTB,www.cityofmontebello.com,3238871200,8.372,Land,,"Pink - RGB 255,190,232",,233317811.749023,99414.8324957674
+47236,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,23378455.2578125,30391.846548558
+47237,,,City,Rosemead,Rosemead,5,,68,RSMD,www.cityofrosemead.org,6265692100,4.965,Land,,"Orange - RGB 230,190,112",,144215424.524414,94462.4527473406
+47238,,,City,Industry,City of Industry,4,,36,IND,www.cityofindustry.org,6263332211,11.948,Land,,"Green - RGB 203,255,112",,335668128.074219,366508.778901888
+47239,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,52184687.1953125,58446.0632061722
+47240,,,City,Baldwin Park,Baldwin Park,3,,7,BPK,www.baldwinpark.com,6269604011,6.774,Land,,"Purple - RGB 185,185,250",,188909777.754883,87540.3983232581
+47241,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,99123477.0703125,94005.4968715758
+47242,,,City,Pico Rivera,Pico Rivera,5,,62,PCORI,www.ci.pico-rivera.ca.us,5629422000,8.667,Land,,"Orange - RGB 230,190,112",,248301887.121094,95344.758567116
+47243,,,City,Walnut,Walnut,5,,84,WAL,www.ci.walnut.ca.us,9095957543,8.611,Land,,"Orange - RGB 230,190,112",,250345320.826172,91654.7206006105
+47244,,,City,Whittier,Whittier,2,,88,WHIT,www.cityofwhittier.org,5625679999,14.396,Land,,"Pink - RGB 255,190,232",,408710555.803711,163332.529508358
+47245,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,25098555.4130859,48738.9979307303
+47246,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,6395684.1171875,18489.7168153519
+47247,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,7133668.70996094,13946.2255900883
+47248,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2071468.12695312,9395.30782886402
+47249,,,City,Westlake Village,Westlake Village,3,,87,WLV,www.wlv.org,8187061613,5.435,Land,,"Purple - RGB 185,185,250",,153389519.063477,64457.8235452123
+47250,,,City,Agoura Hills,Agoura Hills,2,,1,AGH,www.ci.agoura-hills.ca.us,8185977300,8.054,Land,,"Pink - RGB 255,190,232",,217948952.817383,80384.7651191219
+47251,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1974560.66015625,5730.58825965287
+47252,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,78944891.1240234,52905.1264270188
+47253,,,City,Santa Clarita,Santa Clarita,2,,73,SCLR,www.santa-clarita.com,6612592489,52.317,Land,,"Pink - RGB 255,190,232",,2351926.34765625,9495.57512035857
+47254,,,City,Santa Clarita,Santa Clarita,2,,73,SCLR,www.santa-clarita.com,6612592489,52.317,Land,,"Pink - RGB 255,190,232",,1973158783.08301,352383.193057876
+47255,,,City,Santa Clarita,Santa Clarita,2,,73,SCLR,www.santa-clarita.com,6612592489,52.317,Land,,"Pink - RGB 255,190,232",,361.7724609375,129.163780956823
+47256,,,City,Santa Clarita,Santa Clarita,2,,73,SCLR,www.santa-clarita.com,6612592489,52.317,Land,,"Pink - RGB 255,190,232",,263988.65234375,2740.67508120399
+47257,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,12367639.7880859,24388.9153374819
+47258,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,5179409.54296875,14737.9715741109
+47259,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3472719.23535156,10303.223609494
+47260,,,City,Palmdale,Palmdale,4,,58,PMDLE,www.cityofpalmdale.org,6612675100,104.636,Land,,"Green - RGB 203,255,112",,2962841157.27148,682752.895229725
+47261,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,105020307.193359,70979.9696677564
+47262,,,City,Lancaster,Lancaster,3,,45,LANC,www.cityoflancasterca.org,6617236000,94.177,Land,,"Purple - RGB 185,185,250",,2635041193.46973,678788.502116417
+47263,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,160381641.382812,66964.1070801119
+47264,,,City,Temple City,Temple City,6,,81,TCTY,http://www.ci.temple-city.ca.us,6262852171,3.854,Land,,"Brown - RGB 215,194,158",,112226888.163086,60500.0121632054
+47265,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,912373.174804688,4276.27702046982
+47266,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,15388646.828125,20395.775484224
+47267,,,City,San Marino,San Marino,3,,72,SMAR,www.ci.san-marino.ca.us,6263000700,3.752,Land,,"Purple - RGB 185,185,250",,105008829.876953,56652.0877417151
+47268,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,86206270.2285156,75975.9057361182
+47269,,,City,Bradbury,Bradbury,3,,12,BRAD,www.cityofbradbury.org,6263583218,1.996,Land,,"Purple - RGB 185,185,250",,54804680.8945312,38976.9854197398
+47270,,,City,Azusa,Azusa,2,,6,AZUSA,www.ci.azusa.ca.us,6268125200,9.607,Land,,"Pink - RGB 255,190,232",,269296049.47168,158861.103891145
+47271,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,822419.8828125,4076.61235884613
+47272,,,City,Sierra Madre,Sierra Madre,4,,76,SMAD,cityofsierramadre.com/,6263557135,2.932,Land,,"Green - RGB 203,255,112",,82445642.7001953,40137.842828667
+47273,,,City,Arcadia,Arcadia,3,,3,ARC,www.ci.arcadia.ca.us,6265745400,11.368,Land,,"Purple - RGB 185,185,250",,309686069.530273,132160.424824705
+47274,,,City,Glendora,Glendora,4,,29,GLNDR,www.ci.glendora.ca.us,6269148200,19.525,Land,,"Green - RGB 203,255,112",,547798659.234375,165573.817504333
+47275,,,City,Monrovia,Monrovia,2,,54,MON,www.cityofmonrovia.org,6269325550,13.686,Land,,"Pink - RGB 255,190,232",,383232636.071289,144060.056570105
+47276,,,City,Duarte,Duarte,5,,25,DUAR,www.accessduarte.com,6263577931,6.576,Land,,"Orange - RGB 230,190,112",,186772461.353516,111786.071074148
+47277,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,19129825.7900391,30053.9686504072
+47278,,,City,South Pasadena,South Pasadena,4,,80,SPAS,www.ci.south-pasadena.ca.us,6264037200,3.468,Land,,"Green - RGB 203,255,112",,95202614.3193359,43466.6852751135
+47279,,,City,Calabasas,Calabasas,4,,14,CLBAS,www.cityofcalabasas.com,8182241600,13.636,Land,,"Green - RGB 203,255,112",,383589484.360352,149079.669808053
+47280,,,City,Burbank,Burbank,2,,13,BRB,www.burbankca.gov,8182385850,17.138,Land,,"Pink - RGB 255,190,232",,483524829.197266,102132.143373418
+47281,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,53982544.6103516,48554.6908963616
+47282,,,City,La Canada Flintridge,La Cañada Flintridge,4,,39,LACFL,www.lacanadaflintridge.com,8187908880,8.61,Land,,"Green - RGB 203,255,112",,241050545.670898,92280.7731106411
+47283,,,City,Glendale,Glendale,3,,30,GLN,www.ci.glendale.ca.us,8185484000,30.489,Land,,"Purple - RGB 185,185,250",,853135877.119141,190483.713636621
+47284,,,City,San Fernando,San Fernando,2,,70,SFER,www.ci.san-fernando.ca.us,8188981200,2.368,Land,,"Pink - RGB 255,190,232",,66111069.1699219,36555.3785848278
+47285,,,City,Hidden Hills,Hidden Hills,3,,34,HDNH,www.hiddenhillscity.org,8188889281,1.711,Land,,"Purple - RGB 185,185,250",,47047820.6083984,42754.7022827473
+47286,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,67343.9443359375,1137.27878096578
+47287,,,City,West Hollywood,West Hollywood,3,,86,WD,www.weho.org,3238486400,1.981,Land,,"Pink - RGB 255,190,232",,52830103.7695312,57026.0511522758
+47288,,,City,Alhambra,Alhambra,2,,2,ALH,www.cityofalhambra.org,6265705007,7.626,Land,,"Pink - RGB 255,190,232",,212765306.334961,69046.9292700598
+47289,,,City,Beverly Hills,Beverly Hills,2,,11,BVH,www.beverlyhills.org,3102851000,5.705,Land,,"Purple - RGB 185,185,250",,159284635.700195,86932.1751429737
+47290,,,City,Bell,Bell,5,,8,BELL,www.cityofbell.org,3235886211,2.613,Land,,"Orange - RGB 230,190,112",,73031992.9863281,65453.4553458319
+47291,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4876112.09179688,9993.13558075214
+47292,,,City,Manhattan Beach,Manhattan Beach,4,,52,MBCH,www.ci.manhattan-beach.ca.us,3108025000,3.874,Land,,"Green - RGB 203,255,112",,109481891.355469,47788.6163744415
+47293,,,City,Culver City,Culver City,3,,22,CC,www.culvercity.org,3102535851,5.019,Land,,"Purple - RGB 185,185,250",,143154908.041016,116905.357553758
+47294,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,134067666.414062,81743.7494104754
+47295,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4960554.56738281,12042.9246497118
+47296,,,City,Covina,Covina,3,,20,COV,www.ci.covina.ca.us,6263845400,7.001,Land,,"Purple - RGB 185,185,250",,196294544.314453,186237.2743875
+47297,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3219943.87207031,12389.8670143165
+47298,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,28341655.8837891,35047.0185189313
+47299,,,City,San Gabriel,San Gabriel,4,,71,SGAB,www.sangabrielcity.com,6263082800,4.106,Land,,"Green - RGB 203,255,112",,115227097.133789,96562.0362211861
+47300,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1339392.6953125,7155.35786205224
+47301,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1795388.11816406,8122.5004586345
+47302,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,590719.502929688,3352.72177091666
+47303,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2921334.46777344,7458.22279777898
+47304,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,15142950.1816406,26776.0949797294
+47305,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,151163622.333984,83233.7359898858
+47306,,,City,El Segundo,El Segundo,2,,27,ELS,www.elsegundo.org,3105242300,5.43,Land,,"Pink - RGB 255,190,232",,151655410.647461,57554.0153879344
+47307,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,88747623.6162109,55021.7106862524
+47308,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,69130620.8564453,58049.2682681782
+47309,,,City,Lawndale,Lawndale,5,,46,LDL,www.lawndalecity.org,3109733200,1.931,Land,,"Orange - RGB 230,190,112",,54864215.5722656,36901.6703088757
+47310,,,City,Gardena,Gardena,2,,28,GAR,www.ci.gardena.ca.us,3102179500,5.926,Land,,"Pink - RGB 255,190,232",,163261903.651367,65943.3714531751
+47311,,,City,Hermosa Beach,Hermosa Beach,3,,33,HRBCH,www.hermosabch.org,3103180239,1.36,Land,,"Purple - RGB 185,185,250",,40469053.3349609,28584.5829753452
+47312,,,City,Torrance,Torrance,3,,82,TOR,www.torranceca.gov,3103285310,19.938,Land,,"Purple - RGB 185,185,250",,573102101.166016,140095.793373703
+47313,,,City,Rolling Hills Estates,Rolling Hills Estates,4,,67,RHE,www.ci.rolling-hills-estates.ca.us,3103771577,3.444,Land,,"Green - RGB 203,255,112",,100255375.079102,122696.886824356
+47314,,,City,Lomita,Lomita,5,,47,LOM,www.lomita.com,3103257110,1.893,Land,,"Orange - RGB 230,190,112",,53480644.9296875,44930.0125591046
+47316,,,City,La Mirada,La Mirada,3,,41,LAMIR,www.cityoflamirada.org,5629430131,7.778,Land,,"Purple - RGB 185,185,250",,218805991.414062,79824.9084605157
+47317,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,365955.681640625,2697.82874173411
+47318,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4153400.37988281,9340.40206916672
+47319,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,179734741.189453,100205.673104137
+47320,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,70274525.921875,63609.916629538
+47321,,,City,Downey,Downey,3,,24,DNY,www.downeyca.org,5629047274,12.698,Land,,"Purple - RGB 185,185,250",,350381854.662109,90479.9756133207
+47322,,,City,Santa Fe Springs,Santa Fe Springs,4,,74,SFSPS,www.santafesprings.org,5628680511,8.721,Land,,"Green - RGB 203,255,112",,247463677.522461,157491.805704983
+47323,,,City,Commerce,Commerce,6,,18,CMRC,www.ci.commerce.ca.us,3237224805,6.547,Land,,"Brown - RGB 215,194,158",,182709003.831055,93329.0823681018
+47324,,,City,Monterey Park,Monterey Park,3,,56,MPK,www.ci.monterey-park.ca.us,6263071458,7.729,Land,,"Purple - RGB 185,185,250",,215703219.011719,79729.4863789871
+47325,,,City,Artesia,Artesia,4,,4,ART,www.cityofartesia.us,5628656262,1.614,Land,,"Green - RGB 203,255,112",,45203666.4951172,40936.7138005246
+47326,,,City,Bellflower,Bellflower,4,,10,BLF,www.bellflower.org,5628041424,6.145,Land,,"Green - RGB 203,255,112",,172365522.155273,59303.2327867897
+47327,,,City,Cerritos,Cerritos,5,,16,CERR,www.cerritos.us,5628600311,8.792,Land,,"Orange - RGB 230,190,112",,246795357.313477,119842.60692696
+47328,,,City,La Habra Heights,La Habra Heights,3,,40,LAHHT,www.la-habra-heights.org,5626946302,6.394,Land,,"Purple - RGB 185,185,250",,171716578.003906,69894.2305616828
+47329,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,454503.927734375,3638.59921393858
+47330,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,37695.33203125,3008.58728863891
+47332,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,2493216.22070312,9186.56937419282
+47333,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,28000.46484375,760.011257998406
+47334,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Water,,"Gray - RGB 178,178,178",,1956898.83691406,6166.49993267736
+47336,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1424111.96679688,6015.46992151278
+47337,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,1353492.15820312,5303.92907352204
+47338,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,5867160.51855469,14131.4406157799
+47339,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Water,,"Pink - RGB 255,190,232",,4843768.51367188,21351.8855220474
+47340,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3629760.95117188,10654.9988745292
+47341,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,282924.803710938,2702.9008161993
+47342,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,7031704.07324219,10612.7342030665
+47343,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,6684020.52734375,14664.9351844315
+47344,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,32082723.109375,24028.9648380687
+47345,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,329750.197265625,3133.72196391949
+47346,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,107343.450195312,1794.77224023272
+47347,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,5463844.28222656,9451.49400650957
+47348,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,52168153.4296875,73004.1831053563
+47349,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,31866984.578125,26617.7996547272
+47351,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,50.309,Breakwater,,"Purple - RGB 185,185,250",,715241.53515625,28700.7571040125
+47352,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,211547.751953125,8551.46049387145
+47353,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,429066.416992188,17293.8658391123
+47354,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,50.309,Water,,"Purple - RGB 185,185,250",,4002005.28808594,20320.7806562746
+47356,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,6927.11328125,512.492360964623
+47357,,,City,Long Beach,Long Beach,2,,48,LB,www.longbeach.gov,5625706555,0,Water,,"Purple - RGB 185,185,250",,479741622.475586,387835.427528506
+47358,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Land,,"Gray - RGB 178,178,178",,1182.4697265625,142.552821974204
+47359,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Land,,"Gray - RGB 178,178,178",,89673949.7832031,106446.943068946
+47360,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3246422.74609375,12103.670899527
+47361,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,985486.147460938,5929.16034197443
+47363,,,City,Hawaiian Gardens,Hawaiian Gardens,6,,31,HG,www.hgcity.org,5624202641,0.959,Land,,"Brown - RGB 215,194,158",,26643876.8740234,25777.6906822282
+47364,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,109512.58203125,1637.68091452887
+47365,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,44258.2919921875,818.252517687706
+47366,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,629048.041015625,5713.17601489033
+47367,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,4123221.37597656,10842.1993092451
+47368,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Breakwater,,"Pink - RGB 255,190,232",,19635.3515625,972.358984897679
+47369,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Water,,"Pink - RGB 255,190,232",,29037.32421875,887.021501143096
+47370,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Water,,"Pink - RGB 255,190,232",,93669.8046875,1400.97912711778
+47371,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Pier,,"Pink - RGB 255,190,232",,86318.8427734375,3309.16338011044
+47372,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Pier,,"Pink - RGB 255,190,232",,6338.505859375,455.834325653071
+47373,,,City,Hermosa Beach,Hermosa Beach,3,,33,HRBCH,www.hermosabch.org,3103180239,1.36,Pier,,"Purple - RGB 185,185,250",,18636.3076171875,1952.19545964508
+47374,,,City,Manhattan Beach,Manhattan Beach,4,,52,MBCH,www.ci.manhattan-beach.ca.us,3108025000,3.874,Pier,,"Green - RGB 203,255,112",,20975.0517578125,1456.75543115722
+47378,,,City,Redondo Beach,Redondo Beach,2,,65,RBCH,www.redondo.org,3103721171,6.349,Breakwater,,"Pink - RGB 255,190,232",,372861.124023438,7634.30086767552
+47379,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,37513.8818359375,1645.28156782854
+47380,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,727448973.992188,153650.184050279
+47381,,,City,Malibu,Malibu,5,,51,MBU,www.ci.malibu.ca.us,3104562489,19.613,Pier,,"Orange - RGB 230,190,112",,4943.6728515625,447.312636326574
+47383,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Pier,,"Gray - RGB 178,178,178",,33618.4677734375,2764.22860165886
+47384,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Land,,"Yellow - RGB 255,255,115",,3557748.78613281,8230.47855306739
+47385,,,Unincorporated,Unincorporated,CO,1,,0,UNINC,www.lacounty.gov,2139744321,0,Water,,"Yellow - RGB 255,255,115",,15778607.8525391,47114.3911545359
+47386,,,City,Los Angeles,Los Angeles,9,,49,LA,http://www.lacity.org,2134733231,468.852,Breakwater,,"Gray - RGB 178,178,178",,2041.0498046875,233.492202098792
